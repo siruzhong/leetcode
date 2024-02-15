@@ -1,3 +1,5 @@
+print(input("please input a number:"))
+
 while True:
     try:
         x, y = map(int, input("please input two number:").split(' '))
